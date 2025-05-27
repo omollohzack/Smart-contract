@@ -1,2 +1,2 @@
 # Smart-contract
-Solididy code for smart blockchain mining
+Solidity code for smart blockchain mining
